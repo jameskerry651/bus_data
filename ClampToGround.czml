@@ -13,7 +13,7 @@
   {
     "id": "CesiumMilkTruck",
     "model": {
-      "gltf": "CesiumMilkTruck.glb"
+      "gltf": "https://raw.githubusercontent.com/jameskerry651/bus_data/main/CesiumMilkTruck.glb"
     },
     "position": {
       "interpolationAlgorithm": "LINEAR",
